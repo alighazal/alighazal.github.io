@@ -16,8 +16,8 @@ menu:
 
 params:
   homeInfoParams:
-    Title: Welome to My blog
-    Content: Here I would be sharing my learning about software design and implementation patterns ;)
+    Title: Ali Ghazal
+    Content: Notes about software design and implementation patterns ;)
 
   socialIcons: # optional
     - name: "github"
