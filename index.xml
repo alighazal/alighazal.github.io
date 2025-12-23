@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alighazal.github.io</title>
+    <link>https://alighazal.github.io/</link>
+    <description>Recent content on alighazal.github.io</description>
+    <generator>Hugo -- 0.153.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Dec 2025 16:43:11 +0200</lastBuildDate>
+    <atom:link href="https://alighazal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://alighazal.github.io/about/</link>
+      <pubDate>Tue, 23 Dec 2025 16:43:11 +0200</pubDate>
+      <guid>https://alighazal.github.io/about/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Software Engineer @ Nokia&lt;/li&gt;
+&lt;li&gt;Msc from Aalto University and Tartu University&lt;/li&gt;
+&lt;li&gt;Bsc from American University in Cairo&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
