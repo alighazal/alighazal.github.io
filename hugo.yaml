@@ -1,0 +1,27 @@
+baseURL: https://alighazal.github.io/
+languageCode: en-us
+title: alighazal.github.io
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    # - identifier: posts
+    #   name: posts
+    #   url: /posts/
+    #   weight: 20
+
+params:
+  homeInfoParams:
+    Title: Welome to My blog
+    Content: Here I would be sharing my learning about software design and implementation patterns ;)
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/alighazal"
+    - name: "linkedin"  
+      url: ""
+
