@@ -23,7 +23,7 @@ params:
     - name: "github"
       url: "https://github.com/alighazal"
     - name: "linkedin"  
-      url: ""
+      url: "https://linkedin.com/in/alighazal"
 
 caches:
   images:
