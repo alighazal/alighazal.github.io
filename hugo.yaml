@@ -9,10 +9,10 @@ menu:
       name: about
       url: /about/
       weight: 10
-    # - identifier: posts
-    #   name: posts
-    #   url: /posts/
-    #   weight: 20
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 20
 
 params:
   homeInfoParams:
