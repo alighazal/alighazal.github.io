@@ -18,7 +18,7 @@ First, we can have a collection (a map), and we could count the number of items 
 
 Or, another solution would be sorting the entire array, and then returning the item right in the middle. And the intuition behind this is that the majority item is contained in a sequence strictly larger than floor(N/2) and thus the middle element must belong there. Just for fun, this could be proven by contradiction. Assuming that the item at floor(N/2) is not the majority item. This means that the majority item would exist either to the right of to the left of it, and either way this means that it appeared less then floor(N/2). And this is a contradiction to our original assumption that the majority items appears more than floor(N/2). The time complexity of this solution would be the complexity of the sorting algorithm used, and the space complexity would be constant O(1).  
 
-Another silly, but viable solution would be asking the AI to find the majority item in a sequence. Although, I cannot comment on the space and time complexity of this solution, there is a gives you the possibility to claim that you have an AI products. :D
+Another silly, but viable solution would be asking the AI to find the majority item in a sequence. Although, I cannot comment on the space and time complexity of this solution, there will give you the possibility to claim that you have an AI products. :D
 
 
 Joking aside, there was a hint after I answered the question if this problem could be solved in O(N) time complexity and O(1) space complexity. After some digging, I found one of the most elegant algorithms that I have seen in a while.
