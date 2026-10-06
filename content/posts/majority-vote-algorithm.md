@@ -21,7 +21,7 @@ Or, another solution would be sorting the entire array, and then returning the i
 Another silly, but viable solution would be asking the AI to find the majority item in a sequence. Although, I cannot comment on the space and time complexity of this solution, this will give you the possibility to claim that you have an AI products. :D
 
 
-Joking aside, there was a hint after I answered the question if this problem could be solved in O(N) time complexity and O(1) space complexity. After some digging, I found one of the most elegant algorithms that I have seen in a while.
+Joking aside, there was a hint after I answered the question asking if this problem could be solved in O(N) time complexity and O(1) space complexity. After some digging, I found one of the most elegant algorithms that I have seen in a while.
 
 The Boyer–Moore majority vote algorithm ([wikipedia link](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)).
 
