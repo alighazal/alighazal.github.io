@@ -1,8 +1,12 @@
 ---
-date: '2026-10-6T21:36+00:00'
-draft: true
-title: 'an elegant algoithm that made me smile'
+title: "an elegant algoithm that made me smile"
+draft: false
+build:
+  render: never
+  list: never
+  publishResources: false
 ---
+
 
 In an attempt to refresh my problem solving skills, I found a very simple problem that led me to discover a beautiful, elegant algorithm that put a smile on my face. 
 
@@ -47,4 +51,5 @@ int find_majority(vector<int>& arr){
 The intution of this algorithm, is that we are going over the sequance, and it is a cancellation game. And, since it is guaranteed that the majority item appears more than floor(N/2), it will survive the cancellation game. A formal proof for this algorithm exists in the mentioned wikipedia page and [here](https://math.stackexchange.com/questions/4997602/the-boyer-moore-majority-vote-algorithm-proof-of-correctness) as well. 
 
 As the saying goes, if you don't already see how elegant this algorithm is, I can't make you see it. I hope it did put a smile on your face like it did with me.
+
 
