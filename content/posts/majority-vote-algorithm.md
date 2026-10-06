@@ -2,9 +2,9 @@
 title: "an elegant algoithm that made me smile"
 draft: false
 build:
-  render: never
-  list: never
-  publishResources: false
+  render: always
+  list: always
+  publishResources: true
 ---
 
 
